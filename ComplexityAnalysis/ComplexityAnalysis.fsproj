@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Lab2\QuickSort.fs" />
+        <Compile Include="Lab2\Benchmark.fs" />
+        <Content Include="Lab2\README.md" />
+        <Compile Include="Lab1\StateMachine.fs" />
+        <Content Include="Lab1\StateMachine.png" />
+        <Content Include="Lab1\README.md" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="BenchmarkDotNet" Version="0.13.9" />
+    </ItemGroup>
+
+</Project>
