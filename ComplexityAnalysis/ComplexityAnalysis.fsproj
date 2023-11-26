@@ -20,6 +20,8 @@
         <Content Include="Lab4\Table.png" />
         <Content Include="Lab4\Example.gif" />
         <Content Include="Lab4\README.md" />
+        <Content Include="Lab5\README.md" />
+        <Content Include="Lab5\Report.pdf" />
         <Compile Include="Program.fs" />
         
     </ItemGroup>
