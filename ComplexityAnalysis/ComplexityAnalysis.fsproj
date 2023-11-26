@@ -6,18 +6,22 @@
     </PropertyGroup>
 
     <ItemGroup>
+        
+        <Content Include="Lab1\StateMachine.png" />
+        <Content Include="Lab1\README.md" />
         <Compile Include="Lab2\QuickSort.fs" />
         <Compile Include="Lab2\Benchmark.fs" />
         <Content Include="Lab2\README.md" />
         <Content Include="Lab2\Report.pdf" />
-        <Compile Include="Lab1\StateMachine.fs" />
-        <Content Include="Lab1\StateMachine.png" />
-        <Content Include="Lab1\README.md" />
         <Compile Include="Lab3\Search.fs" />
         <Compile Include="Lab3\Benchmark.fs" />
         <Content Include="Lab3\Report.pdf" />
         <Content Include="Lab3\README.md" />
+        <Content Include="Lab4\Table.png" />
+        <Content Include="Lab4\Example.gif" />
+        <Content Include="Lab4\README.md" />
         <Compile Include="Program.fs" />
+        
     </ItemGroup>
 
     <ItemGroup>
