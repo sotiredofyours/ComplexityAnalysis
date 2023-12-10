@@ -22,7 +22,13 @@
         <Content Include="Lab4\README.md" />
         <Content Include="Lab5\README.md" />
         <Content Include="Lab5\Report.pdf" />
+        <Compile Include="Lab6\SearchTree.fs" />
+        <Content Include="Lab6\Report.pdf" />
+        <Compile Include="Lab7\IntToBinary.fs" />
+        <Content Include="Lab7\Report.pdf" />
         <Compile Include="Program.fs" />
+        
+        
         
     </ItemGroup>
 
